@@ -1,0 +1,5 @@
+Pause icon design: Bootstrap Icons "pause-fill"
+Source: https://icons.getbootstrap.com/icons/pause-fill/
+License: MIT (https://github.com/twbs/icons/blob/main/LICENSE)
+
+The analog stick images are copied from the lecturer-provided Unity project assets.
